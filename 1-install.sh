@@ -384,7 +384,6 @@ echo "
 #########################################################
 "
 sudo cp ~/kiro-dots/os-release/os-release /usr/lib/
-sudo cp ~/kiro-dots/os-release/lsb-release /etc
 sudo cp ~/kiro-dots/User-Management/manage-users.desktop /usr/share/applications/
 sudo systemctl enable --now cockpit.socket
 sudo systemctl start cockpit.socket
