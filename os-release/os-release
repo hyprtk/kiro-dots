@@ -1,5 +1,5 @@
-NAME="Kiro Linux"
-PRETTY_NAME="Kiro Linux"
+NAME="Hyprtk on (Kiro Linux)"
+PRETTY_NAME="Hyprtk on (Kiro Linux)"
 ID=arch
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"
