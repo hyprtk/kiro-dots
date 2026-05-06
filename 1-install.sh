@@ -201,6 +201,11 @@ sleep 2
 echo ""
 sh ~/kiro-dots/scripts/awww-wrapper.sh
 echo ""
+echo ""
+sleep 2
+echo ""
+sh ~/kiro-dots/scripts/grudupdater.sh
+echo ""
 echo "
 #########################################################
 #                                                       #
