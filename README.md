@@ -46,26 +46,24 @@ Hyprland: In addition, you can switch the Waybar Template
 
 The templates are available in ~/dotfiles/waybar/themes. You can add your own personal themes into this folder. The script will read in the folder structure.
 
-## Screenshots & Video
-
-Kiro Linux
-![MODEL](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro1.png)
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro2.png)
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro3.png)
-
-
 ## Getting started
 
 To make it easy for you to get started with my garuda-dots, here's a list of recommended next steps.
 
 PLEASE BACKUP YOUR EXISTING .config WITH YOUR DOTFILES BEFORE STARTING THE SCRIPTS.
 
-```
+
 # Make sure that you're in your home directory
 
-git clone https://raw.githubusercontent.com/hyprtk/kiro-dots
-cd kiro-dots
-./install.sh
+	git clone https://raw.githubusercontent.com/hyprtk/kiro-dots
+	cd kiro-dots
+	./install.sh
 
 #Please note that every Arch Linux system is different and I cannot guarantee that everything works fine on your system.
 
+## Screenshots & Video
+
+Kiro Linux
+![MODEL](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro1.png)
+![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro2.png)
+![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro3.png)
