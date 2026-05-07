@@ -48,35 +48,11 @@ The templates are available in ~/dotfiles/waybar/themes. You can add your own pe
 
 ## Screenshots & Video
 
-Arch Linux
-![MODEL](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-21_13-04-59.png)
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-21_13-02-05.png)
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-21_13-04-49.png)
+Kiro Linux
+![MODEL](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro1.png)
+![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro2.png)
+![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro3.png)
 
-CachyOS
-![MODEL](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-23_16-38-13.png)
-![MODEL](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-23_16-52-38.png)
-![MODEL](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-23_16-53-24.png)
-
-Endeavour
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-22_11-16-25.png)
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-22_11-16-47.png)
-![MODEL](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-22_11-17-59.png)
-
-Garuda
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-22_09-43-27.png)
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-22_09-42-03.png)
-![MODEL](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-22_09-43-12.png)
-
-Manjaro
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-21_15-01-38.png)
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-21_15-00-19.png)
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/screenshot-2026-04-21_15-01-24.png)
-
-ArcoLinux
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/53256162013_6be4b66963_o.png)
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/53256224204_aaa86aff2e_o.png)
-![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/53256357675_f6af5c7757_o.png)
 
 ## Getting started
 
