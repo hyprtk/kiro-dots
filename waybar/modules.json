@@ -154,7 +154,7 @@
     // Rofi Application Launcher
     "custom/appmenu": {
         "format": " Home",
-        "on-click": "~/kiro-dots/scripts/applauncher.sh",
+        "on-click": "~/kiro-dots/scripts/appsmenu.sh",
         "tooltip": true,
         "tooltip-format": "Application Launcher"
     },
