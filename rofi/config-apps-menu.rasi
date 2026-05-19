@@ -19,10 +19,10 @@ configuration {
     modi:                       "drun,run,filebrowser,window";
     show-icons:                 true;
     icon-theme:                 "Papirus-Dark";
-    display-drun:               "APPS";
-    display-run:                "RUN";
-    display-filebrowser:        "FILES";
-    display-window:             "WINDOW";
+    display-drun:               "";
+    display-run:                "";
+    display-filebrowser:        "";
+    display-window:             "";
     drun-display-format:        "{name}";
     hover-select:               true;
     me-select-entry:            "";
@@ -128,6 +128,7 @@ mode-switcher{
 }
 
 button {
+    font:                        "Iosevka Nerd Font 10";
     padding:                      10px;
     border-radius:                10px;
     background-color:             @background;
@@ -245,7 +246,7 @@ message {
     background-color:             @background;
 }
 textbox {
-    background-color:            inherit;
+    background-color:            transparent;
     text-color:                  #ffffff;
     vertical-align:              0.5;
     horizontal-align:            0.5;
