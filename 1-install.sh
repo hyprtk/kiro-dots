@@ -545,6 +545,7 @@ echo "-------------------------------------"
 echo "-> Install Hyprland kiro-dots"
 echo "-------------------------------------"
 echo ""
+mv ~/.config/hypr ~/.config/hypr-old
 _installSymLink hypr ~/.config/hypr ~/kiro-dots/hypr/ ~/.config
 _installSymLink fastfetch ~/.config/fastfetch ~/kiro-dots/fastfetch/ ~/.config
 _installSymLink waybar ~/.config/waybar ~/kiro-dots/waybar/ ~/.config
