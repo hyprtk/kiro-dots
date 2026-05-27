@@ -23,13 +23,13 @@ alias pf='pfetch'
 alias ls='exa -al'
 alias shutdown='systemctl poweroff'
 alias v='nvim'
-alias ts='~/kiro-dots/scripts/snapshot.sh'
+alias ts='~/hyprtk/scripts/snapshot.sh'
 alias matrix='cmatrix'
 alias wifi='nmtui'
 alias od='~/private/onedrive.sh'
-alias rw='~/kiro-dots/waybar/reload.sh'
+alias rw='~/hyprtk/waybar/reload.sh'
 alias winclass="xprop | grep 'CLASS'"
-alias dot="cd ~/kiro-dots"
+alias dot="cd ~/hyprtk"
 
 # -----------------------------------------------------
 # Window Managers
@@ -54,18 +54,18 @@ alias gcheck="git checkout"
 # SCRIPTS
 # -----------------------------------------------------
 
-alias wallp='~/kiro-dots/scripts/updatewal.sh'
-alias gr='python ~/kiro-dots/scripts/growthrate.py'
+alias wallp='~/hyprtk/scripts/updatewal.sh'
+alias gr='python ~/hyprtk/scripts/growthrate.py'
 alias ChatGPT='python ~/mychatgpt/mychatgpt.py'
 alias chat='python ~/mychatgpt/mychatgpt.py'
-alias ascii='~/kiro-dots/scripts/figlet.sh'
+alias ascii='~/hyprtk/scripts/figlet.sh'
 
 # -----------------------------------------------------
 # VIRTUAL MACHINE
 # -----------------------------------------------------
 
 alias vm='~/private/launchvm.sh'
-alias lg='~/kiro-dots/scripts/looking-glass.sh'
+alias lg='~/hyprtk/scripts/looking-glass.sh'
 alias vmstart='virsh --connect qemu:///system start win11'
 alias vmstop='virsh --connect qemu:///system destroy win11'
 
@@ -73,9 +73,9 @@ alias vmstop='virsh --connect qemu:///system destroy win11'
 # EDIT CONFIG FILES
 # -----------------------------------------------------
 
-alias confq='nvim ~/kiro-dots/qtile/config.py'
-alias confp='nvim ~/kiro-dots/picom/picom.conf'
-alias confb='nvim ~/kiro-dots/.bashrc'
+alias confq='nvim ~/hyprtk/qtile/config.py'
+alias confp='nvim ~/hyprtk/picom/picom.conf'
+alias confb='nvim ~/hyprtk/.bashrc'
 
 # -----------------------------------------------------
 # EDIT NOTES
@@ -87,7 +87,7 @@ alias notes='vim ~/notes.txt'
 # SYSTEM
 # -----------------------------------------------------
 
-alias update-grub='~/kiro-dots/scripts/update-grub.sh'
+alias update-grub='~/hyprtk/scripts/update-grub.sh'
 alias setkb='setxkbmap gb;echo "Keyboard set back to gb."'
 alias update='sudo pacman -Syu --noconfirm && yay -Syu --noconfirm'
 

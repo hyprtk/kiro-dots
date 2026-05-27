@@ -48,9 +48,9 @@ awww img $wallpaper \
     --transition-duration=0.7 \
     --transition-pos "$( hyprctl cursorpos )"
 
-~/kiro-dots/waybar/launch.sh
+~/hyprtk/waybar/launch.sh
 
-~/kiro-dots/papirus-icons/scripts/change-icons.sh
+~/hyprtk/papirus-icons/scripts/change-icons.sh
 
 # ----------------------------------------------------- 
 # Send notification

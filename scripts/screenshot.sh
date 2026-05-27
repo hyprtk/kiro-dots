@@ -15,18 +15,18 @@
 prompt='Screenshot'
 mesg="DIR: ~/Pictures/Screenshots"
 
-SAVE_DIR=$(cat ~/kiro-dots/scripts/settings/screenshot-folder)
-SAVE_FILENAME=$(cat ~/kiro-dots/scripts/settings/screenshot-filename)
+SAVE_DIR=$(cat ~/hyprtk/scripts/settings/screenshot-folder)
+SAVE_FILENAME=$(cat ~/hyprtk/scripts/settings/screenshot-filename)
 eval screenshot_folder="$SAVE_DIR"
 eval NAME="$SAVE_FILENAME"
 
 # Notifications
-source "$HOME/kiro-dots/scripts/notification-handler"
+source "$HOME/hyprtk/scripts/notification-handler"
 APP_NAME="Screen Capture"
 NOTIFICATION_ICON="camera-photo-symbolic"
 
 # Screenshot Editor
-export GRIMBLAST_EDITOR="$(cat $HOME/kiro-dots/scripts/settings/screenshot-editor)"
+export GRIMBLAST_EDITOR="$(cat $HOME/hyprtk/scripts/settings/screenshot-editor)"
 
 # Example for keybindings
 # bind = SUPER, p, exec, grimblast save active

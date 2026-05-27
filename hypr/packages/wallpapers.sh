@@ -21,7 +21,7 @@ while true; do
             else
                 mkdir ~/Pictures/Wallpapers
             fi
-            cp ~/kiro-dots/Wallpapers/* ~/Pictures/Wallpapers
+            cp ~/hyprtk/Wallpapers/* ~/Pictures/Wallpapers
             echo "Default wallpapers installed."
         break;;
         * ) echo "Please answer yes or no.";;

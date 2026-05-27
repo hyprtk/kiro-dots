@@ -24,7 +24,7 @@
 # ----------------------------------------------------- 
 
 sleep 1
-source ~/kiro-dots/scripts/library.sh
+source ~/hyprtk/scripts/library.sh
 clear
 
 # ------------------------------------------------------
