@@ -64,6 +64,6 @@ PLEASE BACKUP YOUR EXISTING .config WITH YOUR DOTFILES BEFORE STARTING THE SCRIP
 ## Screenshots & Video
 
 Kiro Linux
-![MODEL](https://github.com/hyprtk/hyprtk/blob/main/screenshots/kiro1.png)
-![Model](https://github.com/hyprtk/hyprtk/blob/main/screenshots/kiro2.png)
-![Model](https://github.com/hyprtk/hyprtk/blob/main/screenshots/kiro3.png)
+![MODEL](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro1.png)
+![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro2.png)
+![Model](https://github.com/hyprtk/kiro-dots/blob/main/screenshots/kiro3.png)
